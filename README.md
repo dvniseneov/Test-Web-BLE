@@ -1,1 +1,1 @@
-Load into web browser:   https://github.com/dvniseneov/Test-Web-BLE/
+Load into web browser:   https://dvniseneov.github.io/esp32-web-ble/
